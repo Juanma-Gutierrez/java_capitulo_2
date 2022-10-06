@@ -8,14 +8,8 @@
 
 public class Ejercicio6 {
     public static void main(String[] args) {
-        char a;
-        char b;
-        String s1;
-        String s2;
-        a = 'a';
-        b = 'b';
-        s1 = "String 1";
-        s2 = "String 2";
-        System.out.println(a + "" + b + s1 + s2);
+        float base;
+        base = 12.5f;
+        System.out.println(base + " de base + 21% de IVA: " + base * 0.21 + "\tTotal factura: " + base * 1.21);
     }
 }
