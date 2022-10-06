@@ -13,5 +13,4 @@ public class Ejercicio4 {
         euros = 1000f;
         System.out.print(euros + " euros son: " + (int) (euros * conver) + " pesetas");
     }
-
 }
