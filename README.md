@@ -1,4 +1,4 @@
-# java_capitulo_1
+# java_capitulo_2
 
 ### Ejercicio 1
 
