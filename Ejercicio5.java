@@ -1,8 +1,8 @@
-/*
+/**
 * Exercise: 5
-* Created: 06/10/2022 14:05
+* @version: 06/10/2022 14:05
 * 
-* Author: Juan Manuel Gutiérrez
+* @author: Juan Manuel Gutiérrez
 * https://github.com/Juanma-Gutierrez
 */
 
