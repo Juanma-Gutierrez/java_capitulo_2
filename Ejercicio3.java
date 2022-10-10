@@ -1,10 +1,10 @@
 /**
-* Exercise: 3
-* @version: 06/10/2022 13:54
-* 
-* @author: Juan Manuel Gutiérrez
-* https://github.com/Juanma-Gutierrez
-*/
+ * Exercise: 3
+ * 
+ * @version: 06/10/2022 13:54
+ * @author: Juan Manuel Gutiérrez
+ *          https://github.com/Juanma-Gutierrez
+ */
 
 public class Ejercicio3 {
     public static void main(String[] args) {
@@ -17,4 +17,3 @@ public class Ejercicio3 {
 
     }
 }
-
