@@ -1,5 +1,9 @@
 # java_capitulo_2
 
+Soluciones a los ejercicios del libro **Aprende Java con ejercicios** de Luis José Sánchez (*Edición 2019*).
+
+Este libro está a la venta en https://leanpub.com/aprendejava
+
 ### Ejercicio 1
 
 Escribe un programa en el que se declaren las variables enteras x e y. Asígnales los valores 144 y 999 respectivamente. A continuación, muestra por pantalla el valor de cada variable, la suma, la resta, la división y la multiplicación.
