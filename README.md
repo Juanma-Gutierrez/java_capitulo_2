@@ -4,6 +4,8 @@ Soluciones a los ejercicios del libro **Aprende Java con ejercicios** de Luis Jo
 
 Este libro está a la venta en https://leanpub.com/aprendejava
 
+![image](https://user-images.githubusercontent.com/101201349/198890431-a5598843-2252-4e82-a764-bb1380121200.png)
+
 ## Listado de ejercicios
 
 [01 Ejercicio 1](#ejercicio-1)
