@@ -13,18 +13,22 @@
  */
 
 public class Ejercicio6 {
+        public static void main(String[] args) {
+                // Var declarations
+                float base;
 
-    public static void main(String[] args) {
-        float base;
-        base = 12.5f;
-        System.out.println(
-                base +
-                        " de base + 21% de IVA: " +
-                        base *
-                                0.21
-                        +
-                        "\tTotal factura: " +
-                        base *
-                                1.21);
-    }
+                // Var init
+                base = 12.5f;
+
+                // Output results
+                System.out.println(
+                                base +
+                                                " de base + 21% de IVA: " +
+                                                base *
+                                                                0.21
+                                                +
+                                                "\tTotal factura: " +
+                                                base *
+                                                                1.21);
+        }
 }

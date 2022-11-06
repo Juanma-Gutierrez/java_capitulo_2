@@ -15,14 +15,19 @@
 public class Ejercicio7 {
 
     public static void main(String[] args) {
+        // Var declarations
         char a;
         char b;
         String s1;
         String s2;
+
+        // Var init
         a = 'a';
         b = 'b';
         s1 = "String 1";
         s2 = "String 2";
+
+        // Output results
         System.out.println(a + "" + b + s1 + s2);
     }
 }

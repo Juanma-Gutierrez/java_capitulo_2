@@ -16,10 +16,15 @@
 public class Ejercicio1 {
 
     public static void main(String[] args) {
+        // Var declarations
         int x;
         int y;
+
+        // Var init
         x = 144;
         y = 999;
+
+        // Output data
         System.out.println("x = " + x);
         System.out.println("y = " + y);
         System.out.println(x + " + " + y + " = " + (x + y));

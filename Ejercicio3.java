@@ -15,9 +15,17 @@
 public class Ejercicio3 {
 
     public static void main(String[] args) {
-        String nombre = "Juan Manuel Gutiérrez";
-        String direccion = "C/ Frederick Termann, s/n - PTA Malaga - Campanillas - Malaga";
-        String telefono = "952.11.22.33";
+        // Var declarations
+        String nombre;
+        String direccion;
+        String telefono;
+
+        // Var init
+        nombre = "Juan Manuel Gutiérrez";
+        direccion = "C/ Frederick Termann, s/n - PTA Malaga - Campanillas - Malaga";
+        telefono = "952.11.22.33";
+
+        // Output results
         System.out.println(nombre);
         System.out.println(direccion);
         System.out.println(telefono);

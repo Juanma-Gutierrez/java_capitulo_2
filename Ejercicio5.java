@@ -14,10 +14,15 @@
 public class Ejercicio5 {
 
     public static void main(String[] args) {
+        // Var declarations
         int pesetas;
         float conver;
+
+        // Var init
         conver = 166.386f;
         pesetas = 1000;
+
+        // Output results
         System.out.print(
                 pesetas + " pesetas son: " + (int) (pesetas * conver) + " euros");
     }

@@ -15,8 +15,13 @@
 public class Ejercicio2 {
 
     public static void main(String[] args) {
+        // Var declarations
         String nombre;
+
+        // Var init
         nombre = "Juanma Gutiérrez";
+
+        // Output results
         System.out.print(nombre);
     }
 }

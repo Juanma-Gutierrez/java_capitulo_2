@@ -15,18 +15,23 @@
  */
 public class Ejercicio8 {
     public static void main(String[] args) {
+        // Var declarations
         char a;
         char b;
         char c;
         char d;
         char e;
         String cadena;
+
+        // Var init
         a = 'a';
         b = 'b';
         c = 'c';
         d = 'd';
         e = 'e';
         cadena = "" + a + b + c + d + e;
+
+        // Output results
         System.out.print(cadena);
     }
 }
